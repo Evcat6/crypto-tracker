@@ -1,5 +1,5 @@
 <template>
-  <div class="crypto-list">{{key}}</div>
+  <div class="crypto-list">{{name}}</div>
   <div class="pt-3.5">
     <div class="cryptos-price">${{value.USD}}</div>
     <div class="cryptos-price">€{{value.EUR}}</div>
